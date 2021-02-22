@@ -1,0 +1,8 @@
+.boxContainer {
+  margin: 0 auto;
+  width: 100%;
+  height: 80vh;
+  box-shadow: 0 0 5px rgb(207, 207, 207);
+  overflow: scroll;
+  margin: 15px 0;
+}

@@ -1,0 +1,14 @@
+.box {
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  width: 150px;
+  height: 150px;
+  background-color: rgba(11, 52, 128, 0.74);
+}
+.id {
+  color: #ffffff;
+  text-align: center;
+  padding: 40%;
+  font-size: 18px;
+}
